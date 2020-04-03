@@ -1,6 +1,6 @@
 # fancy_bottom_navigation
 
-a fancy bottom navigation with four pages
+a fancy bottom navigation with four pages it's helps beginners to get started.Hope you would like it
 
 ## Getting Started
 
